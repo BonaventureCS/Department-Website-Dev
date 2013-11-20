@@ -134,3 +134,13 @@
 .curr{  
   margin-right:50px;        
 }
+/**Styles for **/
+.cStudentTitle{
+    border-bottom:1px solid black;
+    padding: 0px;
+    margin: 0px 0px 20px 15px;
+
+}
+.cStudentDec{
+  margin: 20px 0px 10px 0px;
+}
